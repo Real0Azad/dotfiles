@@ -40,6 +40,7 @@ pkill waybar && waybar &
 ```
 
 ## Preview
+<img width="1919" height="1079" alt="2026-06-12_09-54" src="https://github.com/user-attachments/assets/885f0b40-5e4f-46ec-9ee1-46139fd746ae" />
 
 ## Notes
 
