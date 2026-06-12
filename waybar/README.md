@@ -30,7 +30,7 @@ Copy the configuration files:
 ```bash
 mv ~/.config/waybar ~/.config/waybar.backup 2>/dev/null
 mkdir -p ~/.config/waybar
-cp -r waybar/* ~/.config/waybar/
+cp -r dotfiles/waybar/* ~/.config/waybar/
 ```
 
 Restart Waybar:
