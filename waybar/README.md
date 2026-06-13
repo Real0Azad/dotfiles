@@ -7,7 +7,7 @@ A simple and clean Waybar configuration for Hyprland.
 Install the required packages:
 
 ```bash
-sudo pacman -S --needed otf-comicshanns-nerd noto-fonts-emoji swaync waybar
+sudo pacman -S --needed otf-comicshanns-nerd noto-fonts-emoji pavucontrol swaync waybar
 ```
 
 ### Package Overview
@@ -44,6 +44,6 @@ pkill waybar && waybar &
 
 ## Notes
 
-This configuration was created and tested on Arch Linux with Wayland.
+This configuration was created and tested on Arch Linux with Hyprland.
 
 Feel free to modify it to fit your setup.
